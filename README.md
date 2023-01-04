@@ -1,5 +1,5 @@
 # simpleJWT_Account
-- djangoresftframework
+- djangorestframework
 - simpleJWT
 - token(refresh/access)
 - custom UserModel
